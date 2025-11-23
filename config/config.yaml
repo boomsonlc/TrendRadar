@@ -114,4 +114,4 @@ platforms:
   - id: "zhihu"
     name: "知乎"
   - id: "newsonw"
-    name:"新消息"
+    name: "新消息"
